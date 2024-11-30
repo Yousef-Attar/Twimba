@@ -56,7 +56,7 @@ function handleTweetBtnClick(){
     if(tweetInput.value){
         tweetsData.unshift({
             handle: `✅Yousef-Attar(Maker Of Twimba)✅`,
-            profilePic: `images/scrimbalogo.png`,
+            profilePic: `scrimbalogo.png`,
             likes: 0,
             retweets: 0,
             tweetText: tweetInput.value,
